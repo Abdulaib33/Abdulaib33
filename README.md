@@ -3,9 +3,8 @@
 <p align="center">
   🚀 Web Developer in Progress | 🎮 Roblox Creator | 🐧 Arch Linux Enthusiast
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hey!+I'm+Abdulaib33;Web+Dev+%7C+Roblox+Creator+%7C+Arch+User;Currently+learning+Vue%2C+Laravel%2C+SQL+...;Let's+build+cool+stuff+together!" alt="Typing SVG" />
-</p>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdulaib</h1>
+
 
 ---
 
