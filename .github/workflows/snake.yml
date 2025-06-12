@@ -2,8 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write  # <-- ✅ This line gives GitHub Actions permission to push
 
 jobs:
   build:
