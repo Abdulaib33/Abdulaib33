@@ -78,13 +78,6 @@
   <img src="https://raw.githubusercontent.com/Abdulaib33/Abdulaib33/main/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
-
-### 🕒 GitHub Activity Graph (view directly if not visible)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abdulaib33&theme=github-compact" alt="Activity Graph" />
-</p>
-
 ---
 
 ### 👁️ Profile Views
