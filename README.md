@@ -72,18 +72,16 @@
 
 ---
 
-### 🕒 GitHub Activity Graph
+### 🐍 Contribution Snake (enable action below for this to show)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abdulaib33&theme=github-compact" />
+  <img src="https://github.com/Abdulaib33/Abdulaib33/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
----
-
-### 🐍 Contribution Snake (Enable GitHub Action)
+### 🕒 GitHub Activity Graph (view directly if not visible)
 
 <p align="center">
-  <img src="https://github.com/Abdulaib33/Abdulaib33/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abdulaib33&theme=github-compact" alt="Activity Graph" />
 </p>
 
 ---
