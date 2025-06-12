@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hey!+I'm+Abdulaib33;Web+Dev+%7C+Roblox+Creator+%7C+Arch+User;Currently+learning+Vue%2C+Laravel%2C+SQL+...;Let's+build+cool+stuff+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hey!+I'm+Abdulaib33;Web+Dev+%7C+Roblox+Creator+%7C+Arch+User;Currently+learning+Vue%2C+Laravel%2C+SQL+...;Best+Roblox+Player+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdulaib33</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdulaib</h1>
 
 <p align="center">
-  🚀 Web Developer in Progress | 🎮 Roblox Creator | 🐧 Arch Linux Enthusiast
+  🚀 Web Dev Learner | 🎮 Best Roblox Player | 🐧 Arch Linux Fan | 🔥 Soon Luau Scripter
 </p>
 
 ---
@@ -13,15 +13,16 @@
 ### 👨‍💻 About Me
 
 - 👋 I'm @Abdulaib33
-- 🌱 Currently learning **Web Development**, **Luau**, and **SQL**
-- 🔭 Future goals: Mastering **Vue.js**, **Laravel**, **Alpine.js**, and the full **LAMP stack**
+- 🌱 Currently learning **Web Dev**, **Luau**, and **SQL**
+- 🔭 Future goals: Master **Vue.js**, **Laravel**, **Alpine.js**, and the **LAMP stack**
 - 🖥️ Proud Arch user — yes, _I use Arch, btw_ 😎
 - 💻 Currently rocking a **ThinkPad P1 Gen 6** (RTX 4060 + i7-13700H)
+- 🎮 I consider myself the **best Roblox player** on the planet 🌍
 - ⚡ Fun fact: The **motherboard of my katana is dead** 🗡️💀
 
 ---
 
-### 🛠️ Tech Stack (Current & Future)
+### 🛠️ Tech Stack
 
 **Frontend:**
 
@@ -47,7 +48,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdulaib33&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -63,6 +64,14 @@
 
 ---
 
+### 🟩 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdulaib33&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🕒 GitHub Activity Graph
 
 <p align="center">
@@ -71,11 +80,27 @@
 
 ---
 
+### 🐍 Contribution Snake (Enable GitHub Action)
+
+<p align="center">
+  <img src="https://github.com/Abdulaib33/Abdulaib33/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdulaib33&label=Profile+Views&color=blueviolet&style=flat" />
+</p>
+
+---
+
 ### 📬 Reach Me
 
-- 📨 Email: `your-email@example.com` _(replace this with your real one)_
-- 🗨️ Discord: `YourDiscord#1234` _(if you want to share it)_
-- 🛠️ Open to collab on **Web Dev**, **Vue**, **Roblox Studio**, and Linux-based projects
+- 📨 Email: `your-email@example.com`
+- 💬 Discord: `YourDiscord#1234`
+- 💡 I'm open to collaborations on **Vue, Laravel, Alpine.js, SQL, Roblox Studio**
 
 ---
 
@@ -83,7 +108,8 @@
 
 > “Talk is cheap. Show me the code.” — Linus Torvalds  
 > “The motherboard of my katana is dead.” — @Abdulaib33  
-> “I use Arch, btw.” — Every enlightened developer 😎
+> “I use Arch, btw.” — Every enlightened dev 😎  
+> “Best Roblox player? That’s me.” — You  
 
 ---
 
