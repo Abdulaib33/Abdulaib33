@@ -3,7 +3,16 @@
 <p align="center">
   🚀 Web Developer in Progress | 🎮 Roblox Creator | 🐧 Arch Linux Enthusiast
 </p>
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdulaib</h1>
+
+### 🧠 Currently Learning
+
+<!-- GitHub Readme Metrics (Highly customizable) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulaib33&layout=compact&theme=tokyonight&hide_border=true" />
+
+### 🕒 Last GitHub Activity
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abdulaib33&theme=github-compact" />
 
 
 ---
