@@ -85,7 +85,7 @@
 
 ### 🧠 Quotes I Like
 
-> “Talk is cheap. Show me the code.” — Linus Torvalds  
+> “Truth is not what you want it to be; it is what it is, and you must bend to it or live a life of lie.” — **Miyamoto Musashi**  
 > “The motherboard of my katana is dead.” — @Abdulaib33  
 > “I use Arch, btw.” — Every enlightened dev 😎  
 > “Best Roblox player? That’s me.” — You  
