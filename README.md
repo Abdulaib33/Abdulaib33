@@ -91,8 +91,8 @@
 
 ### 📬 Reach Me
 
-- 📨 Email: `your-email@example.com`
-- 💬 Discord: `YourDiscord#1234`
+- 📨 Email: `Abdulaibayo08@gmail.com`
+- 💬 Discord: `abdoulaye421800  ||   _abdoulaye`
 - 💡 I'm open to collaborations on **Vue, Laravel, Alpine.js, htmx, SQL, Roblox Studio**
 
 ---
