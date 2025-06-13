@@ -10,13 +10,6 @@
 
 ---
 
-### 📅 GitHub Contribution Calendar
-
-<p align="center">
-  <img src="https://github.com/Abdulaib33.png" alt="GitHub Contribution Calendar" />
-</p>
-
-
 ### 👨‍💻 About Me
 
 - 👋 I'm @Abdulaib33
