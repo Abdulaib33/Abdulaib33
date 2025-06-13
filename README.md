@@ -14,7 +14,7 @@
 
 - 👋 I'm @Abdulaib33
 - 🌱 Currently learning **Web Dev**, **Luau**, and **SQL**
-- 🔭 Future goals: Master **Vue.js**, **Laravel**, **Alpine.js**, and the **LAMP stack**
+- 🔭 Future goals: Master **Vue.js**, **Laravel**, **Alpine.js**, **htmx**, and the **LAMP stack**
 - 🖥️ Proud Arch user — yes, _I use Arch, btw_ 😎
 - 💻 Currently rocking a **ThinkPad P1 Gen 6** (RTX 4060 + i7-13700H)
 - 🎮 I consider myself the **best Roblox player** on the planet 🌍
@@ -31,6 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black)
+![htmx](https://img.shields.io/badge/htmx-6E6E6E?style=flat&logo=htmx&logoColor=white)
 
 **Backend:**
 
@@ -92,7 +93,7 @@
 
 - 📨 Email: `your-email@example.com`
 - 💬 Discord: `YourDiscord#1234`
-- 💡 I'm open to collaborations on **Vue, Laravel, Alpine.js, SQL, Roblox Studio**
+- 💡 I'm open to collaborations on **Vue, Laravel, Alpine.js, htmx, SQL, Roblox Studio**
 
 ---
 
