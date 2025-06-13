@@ -12,40 +12,26 @@
 
 ### 👨‍💻 About Me
 
-- 👋 I'm @Abdulaib33  
-- 🌱 Currently learning **Web Dev**, **Luau**, and **SQL**  
-- 🔭 Future goals: Master **Vue.js**, **Laravel**, **Alpine.js**, **htmx**, and the **LAMP stack**  
-- 🖥️ Proud Arch user — yes, _I use Arch, btw_ 😎  
-- 💻 Currently rocking a **ThinkPad P1 Gen 6** (RTX 4060 + i7-13700H)  
-- 🎮 I consider myself the **best Roblox player** on the planet 🌍  
-- ⚡ Fun fact: The **motherboard of my katana is dead** 🗡️💀  
+- 👋 I'm @Abdulaib33
+- 🌱 Currently learning **Web Dev**, **Luau**, and **SQL**
+- 🔭 Future goals: Master **Vue.js**, **Laravel**, **Alpine.js**, **htmx**, and the **LAMP stack**
+- 🖥️ Proud Arch user — yes, _I use Arch, btw_ 😎
+- 💻 Currently rocking a **ThinkPad P1 Gen 6** (RTX 4060 + i7-13700H)
+- 🎮 I consider myself the **best Roblox player** on the planet 🌍
+- ⚡ Fun fact: The **motherboard of my katana is dead** 🗡️💀
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend:**
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js) ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black) ![htmx](https://img.shields.io/badge/htmx-6E6E6E?style=flat&logo=htmx&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white "HTML5")  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3 "CSS3")  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black "JavaScript")  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js "Vue.js")  
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black "Alpine.js")  
-![htmx](https://img.shields.io/badge/htmx-6E6E6E?style=flat&logo=htmx&logoColor=white "htmx")  
+**Backend:**  
+![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Backend:**
-
-![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat&logo=laravel&logoColor=white "Laravel")  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white "PHP")  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white "MariaDB")  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white "SQL")  
-
-**Tools & OS:**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white "Git")  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white "VS Code")  
-![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7E83A9?style=flat&logo=endeavouros "EndeavourOS")  
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white "Arch Linux")  
+**Tools & OS:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7E83A9?style=flat&logo=endeavouros) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 
 ---
 
@@ -91,10 +77,8 @@
 
 ### 📬 Reach Me
 
-- 📨 Email: [Abdulaibayo08@gmail.com](mailto:Abdulaibayo08@gmail.com)  
-- 💬 Discord:  
-  - abdoulaye421800  
-  - _abdoulaye  
+- 📨 Email: `Abdulaibayo08@gmail.com`
+- 💬 Discord: `abdoulaye421800  ||   _abdoulaye`
 - 💡 I'm open to collaborations on **Vue, Laravel, Alpine.js, htmx, SQL, Roblox Studio**
 
 ---
