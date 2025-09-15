@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hey!+I'm+Abdulaib33;Web+Dev+%7C+Roblox+Creator+%7C+Arch+User;Currently+learning+Vue%2C+Laravel%2C+SQL+...;Best+Roblox+Player+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdulaib</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdulaib33</h1>
 
 <p align="center">
   🚀 Web Dev Learner | 🎮 Best Roblox Player | 🐧 Arch Linux Fan | 🔥 Soon Luau Scripter
