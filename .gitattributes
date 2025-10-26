@@ -1,16 +1,1 @@
-# --- GitHub Linguist Overrides ---
-
-# Treat .vue files as JavaScript for language stats
-*.vue linguist-language=JavaScript
-
-# Ignore build or dependency folders
-/dist/* linguist-vendored
-/node_modules/* linguist-vendored
-/.output/* linguist-vendored
-/.nuxt/* linguist-vendored
-/.vitepress/* linguist-vendored
-
-# Ignore minified/generated assets
-*.min.js linguist-vendored
-*.css linguist-vendored
-*.map linguist-vendored
+*.vue linguist-language=Vue
