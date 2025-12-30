@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abdulaib33)](https://git.io/streak-stats)
 ME: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulaib33&langs_count=100)
 MIKE: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafari10&langs_count=100)
 <p align="center">
